@@ -30,7 +30,6 @@ focus       →  DSA · Open Source · Backend · Full-Stack
 stack       →  JS · TS · C++ · Node · Express · MongoDB · PostgreSQL · Prisma · React · Tailwind
 tools       →  Git · GitHub · Docker
 goal        →  open-source contributions & GSoC
-fuel        →  chai + consistency ☕
 ```
 
 ---
