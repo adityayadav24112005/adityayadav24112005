@@ -30,6 +30,7 @@ focus       →  DSA · Open Source · Backend · Full-Stack
 stack       →  JS · TS · C++ · Node · Express · MongoDB · PostgreSQL · Prisma · React · Tailwind
 tools       →  Git · GitHub · Docker
 goal        →  open-source contributions & GSoC
+fuel        →  chai + consistency ☕
 ```
 
 ---
@@ -97,11 +98,11 @@ goal        →  open-source contributions & GSoC
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=adityayadav24112005&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub streak" />
+<img src="https://streak-stats.demolab.com?user=adityayadav24112005&theme=tokyonight&hide_border=true&background=0d1117&refresh=1" alt="GitHub streak" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=adityayadav24112005&theme=tokyo-night&hide_border=true&bg_color=0d1117" alt="Contribution graph" />
+<img src="https://ghchart.rshah.org/00F7FF/adityayadav24112005" alt="Contribution graph" width="90%" />
 
 </div>
 
