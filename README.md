@@ -8,7 +8,7 @@
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=adityayadav24112005&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/badge/dynamic/json?label=PRs%20MERGED&query=total_count&url=https%3A%2F%2Fapi.github.com%2Fsearch%2Fissues%3Fq%3Dauthor%3Aadityayadav24112005%2Btype%3Apr%2Bis%3Amerged%2B-user%3Aadityayadav24112005&logo=github&style=for-the-badge&labelColor=555&color=2c5364" alt="PRs Merged" />
 <img src="https://img.shields.io/github/followers/adityayadav24112005?style=for-the-badge&logo=github&color=2c5364" alt="Followers" />
 
 </div>
